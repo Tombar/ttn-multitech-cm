@@ -26,7 +26,7 @@ timezone: "US/Eastern"
 region: US
 
 # Whom to contact about issues with this gateway
-contact_email: gateway-mgmt@ttni.tech
+contact_email: ttn-org@example.com
 
 # Pick servers appropriate for the installed region
 ntp_servers:
