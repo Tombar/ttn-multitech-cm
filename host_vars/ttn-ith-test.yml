@@ -7,7 +7,7 @@ hostname: ttn-ith-test
 ssh_tunnel_remote_port: 15022
 
 # Actual address or hostname of the gateway
-ansible_host: dhcp-19.home.honig.net
+ansible_host: dhcp-248.home.honig.net
 ansible_port: 22
 
 # Descriptive location of the gateway
