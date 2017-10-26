@@ -13,11 +13,10 @@ ssh_tunnel_remote_host: ttn.honig.net
 ssh_tunnel_ssh_port: 2222
 
 # Which TTN packet forwarder to install
-# 'mp' for Kersing version 2.*
-# 'poly' for Kersing version 3.*
-# 'ttn' for TTN packet forwarder
+# 'poly' for Kersing version 2.*
+# 'mp' for Kersing version 3.*
 forwarder_variant: mp
-forwarder_version: 3.0.0-r10
+forwarder_version: 3.0.0-r14
 
 # Pick a value from /usr/share/zoneinfo/REGION/ZONE, i.e. US/Eastern
 timezone: "US/Eastern"
